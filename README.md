@@ -6,6 +6,7 @@
 [![CDNJS version](http://img.shields.io/cdnjs/v/selectize.js.svg?style=flat)](https://cdnjs.com/libraries/selectize.js)
 [![Build Status](http://img.shields.io/travis/selectize/selectize.js/master.svg?style=flat)](https://travis-ci.org/selectize/selectize.js)
 [![Coverage Status](http://img.shields.io/coveralls/selectize/selectize.js/master.svg?style=flat)](https://coveralls.io/r/selectize/selectize.js)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjagonalez%2Fselectize.js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjagonalez%2Fselectize.js?ref=badge_shield)
 
 Selectize is an extensible [jQuery](http://jquery.com/)-based custom &lt;select&gt; UI control. It's useful for tagging, contact lists, country selectors, and so on. It clocks in at around ~7kb (gzipped). The goal is to provide a solid & usable experience with a clean and powerful API.
 
@@ -150,3 +151,6 @@ Copyright &copy; 2013–2016 [Brian Reavis](http://twitter.com/brianreavis) & [C
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjagonalez%2Fselectize.js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjagonalez%2Fselectize.js?ref=badge_large)
